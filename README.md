@@ -2,6 +2,11 @@
 
 This project is a **clone of the popular Getir app**, developed using React Native and Expo for mobile platforms (Android/iOS). Global state management is handled with Redux.
 
+## Screenshot
+
+![getir-clone](https://github.com/user-attachments/assets/8cd02df4-a279-48e3-ab07-32e9e47e3c5f)
+
+
 
 
 ## Features 🛒
